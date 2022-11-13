@@ -1,0 +1,24 @@
+{
+  "name": "botc-night-helper",
+  "version": "1.0.0",
+  "description": "A tool to help simplify wake order for in-person clocktower games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlippStream/botc-night-helper.git"
+  },
+  "author": "SlippStream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlippStream/botc-night-helper/issues"
+  },
+  "homepage": "https://github.com/SlippStream/botc-night-helper#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "http-server": "^14.1.1"
+  }
+}
